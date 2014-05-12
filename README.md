@@ -1,0 +1,4 @@
+vakitler
+========
+
+vakitleri gosterir.
